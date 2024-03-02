@@ -1,6 +1,6 @@
 <template>
-  <h1 class="testo">FoodApp</h1>
+  <PaginaSelezione></PaginaSelezione>
 </template>
 <script setup lang="ts">
+import PaginaSelezione from '@layouts/PaginaSelezione.vue';
 </script>
-<style lang="scss"></style>
